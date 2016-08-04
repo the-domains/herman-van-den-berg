@@ -1,4 +1,3 @@
-layout_spectrum: 0.9654540540650487
 typography_spectrum: 0.9453933376353234
 color:
   brandStrength: 0.6255495643708855
@@ -11,5 +10,7 @@ color:
     - '#CCC7C4'
     - '#D58D98'
     - '#69564F'
+layout_spectrum: 0.9654540540650487
 name: herman van den berg
+title: research
 description: 'herman van den berg, phd'
